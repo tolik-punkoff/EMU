@@ -1,2 +1,2 @@
 # EMU
- Свистелка на Турбопаскале. Совместимость: DOS
+ Whistle on Turbo Pascal. Compatibility: DOS
